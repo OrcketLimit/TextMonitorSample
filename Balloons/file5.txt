@@ -1,40 +1,40 @@
 entry (735aeh42aobjosx) {
- text ("A floating-point instruction is an example of a more simple instruction.")
- modified (1563023697)
+ text ("A floating-point instruction is an example of a more complex instruction.")
+ modified (1563023866)
 }
 entry (735aeh42aobjoxs) {
- text ("Direct support for changing array elements is another.")
- modified (1563023698)
+ text ("Direct support for accessing array elements is another.")
+ modified (1563023867)
 }
 entry (735aeh42aobjsox) {
- text ("A very small number of published documents contain text only.")
- modified (1563023699)
+ text ("A very large number of published documents contain text only.")
+ modified (1563023868)
 }
 entry (735aeh42aobjsxo) {
- text ("Computer memories can not make errors occasionally.")
- modified (1563023700)
+ text ("Computer memories can make errors occasionally.")
+ modified (1563023869)
 }
 entry (735aeh42aobjxos) {
- text ("Direct support for changing array elements is another.")
- modified (1563023701)
+ text ("Direct support for accessing array elements is another.")
+ modified (1563023870)
 }
-entry (735aeh43aobjxso) {
- text ("Computer systems are built up from three types of components.")
- modified (1563023702)
+entry (735aeh42aobjxso) {
+ text ("CPU performance has been increasing exponentially over the past decade.")
+ modified (1563023871)
 }
 entry (735aeh42aobojsx) {
  text ("Optical disks were originally developed for recording television programs.")
- modified (1563023703)
+ modified (1563023872)
 }
 entry (735aeh42aobojxs) {
  text ("Each track has to be written in a single continuous operation without stopping.")
- modified (1563023704)
+ modified (1563023873)
 }
 entry (735aeh42aobosjx) {
  text ("Horizontal sweeping is controlled by a linearly increasing voltage.")
- modified (1563023705)
+ modified (1563023874)
 }
 entry (735aeh42aobosxj) {
  text ("Liquid crystals are viscous organic molecules.")
- modified (1563023706)
+ modified (1563023875)
 }
