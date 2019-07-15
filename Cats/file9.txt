@@ -1,40 +1,40 @@
 entry (735aeh42aobjosx) {
- text ("Anything that can aid this process is useful.")
- modified (1563023919)
+ text ("Anything that can aid this process is useless.")
+ modified (1563024078)
 }
 entry (735aeh42aobjoxs) {
- text ("The processing elements in an array processor are not independent.")
- modified (1563023920)
+ text ("The processing elements in an array processor are independent.")
+ modified (1563024079)
 }
 entry (735aeh42aobjsox) {
- text ("Memory designers have usually used new technology.")
- modified (1563023921)
+ text ("Memory designers have usually used old technology.")
+ modified (1563024080)
 }
 entry (735aeh42aobjsxo) {
- text ("All disks have movable arms that are capable of moving.")
- modified (1563023922)
+ text ("All disks have unmovable arms that are capable of moving.")
+ modified (1563024081)
 }
 entry (735aeh42aobjxos) {
- text ("CPU performance has been increasing exponentially over the past decade.")
- modified (1563023923)
+ text ("CPU performance has not been increasing exponentially over the past decade.")
+ modified (1563024082)
 }
-entry (735aeh42aobjxso) {
- text ("An LCD display screen consists of two parallel glass plates.")
- modified (1563023924)
+entry (735aeh43aobjxso) {
+ text ("Gates are not manufactured or sold individually.")
+ modified (1563024083)
 }
 entry (735aeh42aobojsx) {
  text ("Direct support for accessing array elements is another.")
- modified (1563023925)
+ modified (1563024084)
 }
 entry (735aeh42aobojxs) {
  text ("A very large number of published documents contain text only.")
- modified (1563023926)
+ modified (1563024085)
 }
 entry (735aeh42aobosjx) {
  text ("CPU performance has been increasing exponentially over the past decade.")
- modified (1563023927)
+ modified (1563024086)
 }
 entry (735aeh42aobosxj) {
  text ("Many cable TV companies are now offering Internet access.")
- modified (1563023928)
+ modified (1563024087)
 }
