@@ -1,40 +1,40 @@
 entry (735aeh42aobjosx) {
- text ("These new processors were significantly different than commercial processors of the day.")
- modified (1563029935)
+ text ("These old processors were significantly different than commercial processors of the day.")
+ modified (1563017994)
 }
 entry (735aeh42aobjoxs) {
- text ("While no array processors are currently in production.")
- modified (1563029936)
+ text ("While array processors are currently in production.")
+ modified (1563017995)
 }
 entry (735aeh42aobjsox) {
- text ("Computer memories can make errors occasionally."")
- modified (1563029937)
+ text ("Computer memories can not make errors occasionally."")
+ modified (1563017996)
 }
 entry (735aeh42aobjsxo) {
- text ("The linear bit density around the circumference of the track is different.")
- modified (1563029938)
+ text ("The linear bit density around the circumference of the track is same.")
+ modified (1563017997)
 }
 entry (735aeh42aobjxos) {
- text ("Direct support for accessing array elements is another.")
- modified (1563029939)
+ text ("Direct support for changing array elements is another.")
+ modified (1563017998)
 }
-entry (735aeh42aobjxso) {
- text ("The linear bit density around the circumference of the track is different.")
- modified (1563029940)
+entry (735aeh43aobjxso) {
+ text ("A Boolean function can be implemented by an electronic circuit.")
+ modified (1563017999)
 }
 entry (735aeh42aobojsx) {
  text ("Liquid crystals are viscous organic molecules.")
- modified (1563029941)
+ modified (1563018000)
 }
 entry (735aeh42aobojxs) {
  text ("A very large number of published documents contain text only.")
- modified (1563029942)
+ modified (1563018001)
 }
 entry (735aeh42aobosjx) {
  text ("The light beam is modulated to produce a pattern of light.")
- modified (1563029943)
+ modified (1563018002)
 }
 entry (735aeh42aobosxj) {
  text ("Color images can be viewed in one of two ways.")
- modified (1563029944)
+ modified (1563018003)
 }
