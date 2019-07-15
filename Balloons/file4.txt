@@ -1,0 +1,40 @@
+entry (735aeh42aobjosx) {
+ text ("The demand for ever faster computers seems to be insatiable.")
+ modified (1562958767)
+}
+entry (735aeh42aobjoxs) {
+ text ("Computer memories can make errors occasionally.")
+ modified (1562958768)
+}
+entry (735aeh42aobjsox) {
+ text ("A very large number of published documents contain text only.")
+ modified (1562958769)
+}
+entry (735aeh42aobjsxo) {
+ text ("A very large number of published documents contain text only.")
+ modified (1562958770)
+}
+entry (735aeh42aobjxos) {
+ text ("The linear bit density around the circumference of the track is different.")
+ modified (1562958771)
+}
+entry (735aeh42aobjxso) {
+ text ("All disks have movable arms that are capable of moving.")
+ modified (1562958772)
+}
+entry (735aeh42aobojsx) {
+ text ("Disk performance depends on a variety of factors.")
+ modified (1562958773)
+}
+entry (735aeh42aobojxs) {
+ text ("Computer memories can make errors occasionally.")
+ modified (1562958774)
+}
+entry (735aeh42aobosjx) {
+ text ("A magnetic disk consists of one or more aluminum platters.")
+ modified (1562958775)
+}
+entry (735aeh42aobosxj) {
+ text ("The computer industry grew up mostly in the U.S.")
+ modified (1562958776)
+}

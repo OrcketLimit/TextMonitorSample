@@ -1,0 +1,40 @@
+entry (735aeh42aobjosx) {
+ text ("These new processors were significantly different than commercial processors of the day.")
+ modified (1562958807)
+}
+entry (735aeh42aobjoxs) {
+ text ("While no array processors are currently in production.")
+ modified (1562958808)
+}
+entry (735aeh42aobjsox) {
+ text ("Computer memories can make errors occasionally."")
+ modified (1562958809)
+}
+entry (735aeh42aobjsxo) {
+ text ("The linear bit density around the circumference of the track is different.")
+ modified (1562958810)
+}
+entry (735aeh42aobjxos) {
+ text ("Direct support for accessing array elements is another.")
+ modified (1562958811)
+}
+entry (735aeh42aobjxso) {
+ text ("The linear bit density around the circumference of the track is different.")
+ modified (1562958812)
+}
+entry (735aeh42aobojsx) {
+ text ("Liquid crystals are viscous organic molecules.")
+ modified (1562958813)
+}
+entry (735aeh42aobojxs) {
+ text ("A very large number of published documents contain text only.")
+ modified (1562958814)
+}
+entry (735aeh42aobosjx) {
+ text ("The light beam is modulated to produce a pattern of light.")
+ modified (1562958815)
+}
+entry (735aeh42aobosxj) {
+ text ("Color images can be viewed in one of two ways.")
+ modified (1562958816)
+}
