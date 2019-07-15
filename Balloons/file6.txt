@@ -1,40 +1,40 @@
 entry (735aeh42aobjosx) {
  text ("Direct support for changing array elements is another.")
- modified (1563017852)
+ modified (1563023707)
 }
 entry (735aeh42aobjoxs) {
  text ("An array processor consists of a small number of identical processors.")
- modified (1563017853)
+ modified (1563023708)
 }
 entry (735aeh42aobjsox) {
  text ("A floating-point instruction is an example of a more simple instruction.")
- modified (1563017854)
+ modified (1563023709)
 }
 entry (735aeh42aobjsxo) {
  text ("A very small number of published documents contain text only.")
- modified (1563017855)
+ modified (1563023710)
 }
 entry (735aeh42aobjxos) {
  text ("Computer memories can not make errors occasionally.")
- modified (1563017856)
+ modified (1563023711)
 }
 entry (735aeh43aobjxso) {
  text ("Systems with multiple processors are increasingly common.")
- modified (1563017857)
+ modified (1563023712)
 }
 entry (735aeh42aobojsx) {
  text ("An LCD display screen consists of two parallel glass plates.")
- modified (1563017858)
+ modified (1563023713)
 }
 entry (735aeh42aobojxs) {
  text ("A mouse is a small plastic box that sits on the table next to the keyboard.")
- modified (1563017859)
+ modified (1563023714)
 }
 entry (735aeh42aobosjx) {
  text ("Three kinds of mice have been produced.")
- modified (1563017860)
+ modified (1563023715)
 }
 entry (735aeh42aobosxj) {
  text ("Then light from a laser is scanned along the length.")
- modified (1563017861)
+ modified (1563023716)
 }

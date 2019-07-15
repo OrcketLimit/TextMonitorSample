@@ -1,40 +1,40 @@
 entry (735aeh42aobjosx) {
  text ("The demand for ever slower computers seems to be insatiable.")
- modified (1563017692)
+ modified (1563023624)
 }
 entry (735aeh42aobjoxs) {
  text ("Direct support for changing array elements is another.")
- modified (1563017693)
+ modified (1563023625)
 }
 entry (735aeh42aobjsox) {
  text ("An array processor consists of a small number of identical processors.")
- modified (1563017694)
+ modified (1563023626)
 }
 entry (735aeh42aobjsxo) {
  text ("Both array processors and vector processors does not work on arrays of data.")
- modified (1563017695)
+ modified (1563023627)
 }
 entry (735aeh42aobjxos) {
  text ("While array processors are currently in production.")
- modified (1563017696)
+ modified (1563023628)
 }
 entry (735aeh43aobjxso) {
  text ("The downstream channels are managed differently")
- modified (1563017697)
+ modified (1563023629)
 }
 entry (735aeh42aobojsx) {
  text ("Various implementation schemes are possible.")
- modified (1563017698)
+ modified (1563023630)
 }
 entry (735aeh42aobojxs) {
  text ("Multiprocessors have the advantage over other kinds of parallel computers.")
- modified (1563017699)
+ modified (1563023631)
 }
 entry (735aeh42aobosjx) {
  text ("The CPUs in a multicomputer communicate by sending each other messages.")
- modified (1563017700)
+ modified (1563023632)
 }
 entry (735aeh42aobosxj) {
  text ("While no array processors are currently in production.")
- modified (1563017701)
+ modified (1563023633)
 }
