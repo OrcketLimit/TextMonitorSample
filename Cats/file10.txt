@@ -1,40 +1,40 @@
 entry (735aeh42aobjosx) {
- text ("Modern computers resort to many tricks to maximize their performance.")
- modified (1563024186)
+ text ("Old computers resort to many tricks to maximize their performance.")
+ modified (1563024323)
 }
 entry (735aeh42aobjoxs) {
- text ("Various implementation schemes are possible.")
- modified (1563024187)
+ text ("Various implementation schemes are not possible.")
+ modified (1563024324)
 }
 entry (735aeh42aobjsox) {
- text ("The basic idea behind a cache is simple.")
- modified (1563024188)
+ text ("The basic idea behind a cache is complex.")
+ modified (1563024325)
 }
 entry (735aeh42aobjsxo) {
- text ("Disk performance depends on a variety of factors.")
- modified (1563024189)
+ text ("Disk performance does not depends on a variety of factors.")
+ modified (1563024326)
 }
 entry (735aeh42aobjxos) {
- text ("Optical disks were originally developed for recording television programs.")
- modified (1563024190)
+ text ("Optical disks were not originally developed for recording television programs.")
+ modified (1563024327)
 }
-entry (735aeh42aobjxso) {
- text ("A mouse is a small plastic box that sits on the table next to the keyboard.")
- modified (1563024191)
+entry (735aeh43aobjxso) {
+ text ("Chips can be divided into rough classes based on the number of gates.")
+ modified (1563024328)
 }
 entry (735aeh42aobojsx) {
  text ("An array processor consists of a large number of identical processors.")
- modified (1563024192)
+ modified (1563024329)
 }
 entry (735aeh42aobojxs) {
  text ("Liquid crystals are viscous organic molecules.")
- modified (1563024193)
+ modified (1563024330)
 }
 entry (735aeh42aobosjx) {
  text ("CPU performance has been increasing exponentially over the past decade.")
- modified (1563024194)
+ modified (1563024331)
 }
 entry (735aeh42aobosxj) {
  text ("A very large number of published documents contain text only.")
- modified (1563024195)
+ modified (1563024332)
 }

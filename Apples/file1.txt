@@ -1,40 +1,40 @@
 entry (735aeh42aobjosx) {
- text ("A very large number of published documents contain text only.")
- modified (1563024100)
+ text ("A very small number of published documents contain text only.")
+ modified (1563024263)
 }
 entry (735aeh42aobjoxs) {
- text ("A floating-point instruction is an example of a more complex instruction.")
- modified (1563024101)
+ text ("A floating-point instruction is an example of a more simple instruction.")
+ modified (1563024264)
 }
 entry (735aeh42aobjsox) {
- text ("Direct support for accessing array elements is another.")
- modified (1563024102)
+ text ("Direct support for changing array elements is another.")
+ modified (1563024265)
 }
 entry (735aeh42aobjsxo) {
- text ("Simple computers with interpreted instructions also had other benefits.")
- modified (1563024103)
+ text ("Simple computers with interpreted instructions also had other drawabacks.")
+ modified (1563024266)
 }
 entry (735aeh42aobjxos) {
- text ("These new processors were significantly different than commercial processors of the day.")
- modified (1563024104)
+ text ("These new processors were significantly different than non-commercial processors of the day.")
+ modified (1563024267)
 }
-entry (735aeh42aobjxso) {
- text ("Anything that can aid this process is useful.")
- modified (1563024106)
+entry (735aeh43aobjxso) {
+ text ("Internet access requires a cable modem.")
+ modified (1563024268)
 }
 entry (735aeh42aobojsx) {
  text ("Modern computers resort to many tricks to maximize their performance.")
- modified (1563024107)
+ modified (15630242698)
 }
 entry (735aeh42aobojxs) {
  text ("A critical limit on the rate of issue of instructions is decoding.")
- modified (1563024108)
+ modified (1563024270)
 }
 entry (735aeh42aobosjx) {
  text ("Parallelism comes in two general forms.")
- modified (1563024109)
+ modified (1563024271)
 }
 entry (735aeh42aobosxj) {
  text ("Anything that can aid this process is useful.")
- modified (1563024110)
+ modified (1563024272)
 }
