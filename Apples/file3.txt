@@ -1,40 +1,40 @@
 entry (735aeh42aobjosx) {
- text ("Both array processors and vector processors does not work on arrays of data.")
- modified (1563023957)
+ text ("Both array processors and vector processors work on arrays of data.")
+ modified (1563024121)
 }
 entry (735aeh42aobjoxs) {
- text ("A very small number of published documents contain text only.")
- modified (1563023958)
+ text ("A very large number of published documents contain text only.")
+ modified (1563024122)
 }
 entry (735aeh42aobjsox) {
- text ("A floating-point instruction is an example of a more simple instruction.")
- modified (1563023959)
+ text ("A floating-point instruction is an example of a more complex instruction.")
+ modified (1563024123)
 }
 entry (735aeh42aobjsxo) {
- text ("While array processors are currently in production.")
- modified (1563023960)
+ text ("While no array processors are currently in production.")
+ modified (1563024124)
 }
 entry (735aeh42aobjxos) {
- text ("Computer memories can not make errors occasionally.")
- modified (1563023961)
+ text ("Computer memories can make errors occasionally.")
+ modified (1563024125)
 }
-entry (735aeh43aobjxso) {
- text ("Each computer has a set of characters that it uses.")
- modified (1563023962)
+entry (735aeh42aobjxso) {
+ text ("Memory designers have usually used new technology.")
+ modified (1563024126)
 }
 entry (735aeh42aobojsx) {
  text ("The basic idea behind a cache is simple.")
- modified (1563023963)
+ modified (1563024127)
 }
 entry (735aeh42aobojxs) {
  text ("Cache design is an increasingly important subject.")
- modified (1563023964)
+ modified (1563024128)
 }
 entry (735aeh42aobosjx) {
  text ("Computer memories can make errors occasionally.")
- modified (1563023965)
+ modified (1563024129)
 }
 entry (735aeh42aobosxj) {
  text ("A magnetic disk consists of one or more aluminum platters.")
- modified (1563023966)
+ modified (1563024130)
 }
