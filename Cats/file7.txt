@@ -1,40 +1,40 @@
 entry (735aeh42aobjosx) {
- text ("Simple computers with interpreted instructions also had other benefits.")
- modified (1562958797)
+ text ("Simple computers with interpreted instructions also had other drawbacks.")
+ modified (1563029032)
 }
 entry (735aeh42aobjoxs) {
- text ("Both array processors and vector processors work on arrays of data.")
- modified (1562958798)
+ text ("Both array processors and vector processors does not work on arrays of data.")
+ modified (1563029033)
 }
 entry (735aeh42aobjsox) {
- text ("While no array processors are currently in production.")
- modified (1562958799)
+ text ("While array processors are currently in production.")
+ modified (1563029034)
 }
 entry (735aeh42aobjsxo) {
- text ("A very large number of published documents contain text only.")
- modified (1562958800)
+ text ("A very small number of published documents contain text only.")
+ modified (1563029035)
 }
 entry (735aeh42aobjxos) {
- text ("Direct support for accessing array elements is another.")
- modified (1562958801)
+ text ("Direct support for changing array elements is another.")
+ modified (1563029036)
 }
-entry (735aeh42aobjxso) {
- text ("An array processor consists of a large number of identical processors.")
- modified (1562958802)
+entry (735aeh43aobjxso) {
+ text ("Memories can be categorized as primary or secondary.")
+ modified (1563029037)
 }
 entry (735aeh42aobojsx) {
  text ("Direct support for accessing array elements is another.")
- modified (1562958803)
+ modified (1563029038)
 }
 entry (735aeh42aobojxs) {
  text ("A very large number of published documents contain text only.")
- modified (1562958804)
+ modified (1563029039)
 }
 entry (735aeh42aobosjx) {
  text ("Liquid crystals are viscous organic molecules.")
- modified (1562958805)
+ modified (1563029040)
 }
 entry (735aeh42aobosxj) {
  text ("A very large number of published documents contain text only.")
- modified (1562958806)
+ modified (1563029041)
 }

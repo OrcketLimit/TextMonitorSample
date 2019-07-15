@@ -1,40 +1,40 @@
 entry (735aeh42aobjosx) {
- text ("The demand for ever faster computers seems to be insatiable.")
- modified (1562958767)
+ text ("The demand for ever slower computers seems to be insatiable.")
+ modified (1563028727)
 }
 entry (735aeh42aobjoxs) {
- text ("Computer memories can make errors occasionally.")
- modified (1562958768)
+ text ("Computer memories can not make errors occasionally.")
+ modified (1563028728)
 }
 entry (735aeh42aobjsox) {
- text ("A very large number of published documents contain text only.")
- modified (1562958769)
+ text ("A very small number of published documents contain text only.")
+ modified (1563028729)
 }
 entry (735aeh42aobjsxo) {
- text ("A very large number of published documents contain text only.")
- modified (1562958770)
+ text ("A very small number of published documents contain text only.")
+ modified (1563028730)
 }
 entry (735aeh42aobjxos) {
- text ("The linear bit density around the circumference of the track is different.")
- modified (1562958771)
+ text ("The linear bit density around the circumference of the track is same.")
+ modified (1563028731)
 }
-entry (735aeh42aobjxso) {
- text ("All disks have movable arms that are capable of moving.")
- modified (1562958772)
+entry (735aeh43aobjxso) {
+ text ("The ASCII printing characters are straightforward")
+ modified (1563028732)
 }
 entry (735aeh42aobojsx) {
  text ("Disk performance depends on a variety of factors.")
- modified (1562958773)
+ modified (1563028732)
 }
 entry (735aeh42aobojxs) {
  text ("Computer memories can make errors occasionally.")
- modified (1562958774)
+ modified (1563028733)
 }
 entry (735aeh42aobosjx) {
  text ("A magnetic disk consists of one or more aluminum platters.")
- modified (1562958775)
+ modified (1563028734)
 }
 entry (735aeh42aobosxj) {
  text ("The computer industry grew up mostly in the U.S.")
- modified (1562958776)
+ modified (1563028735)
 }
